@@ -3,10 +3,10 @@
 
 ## Tecnologias
 
-- [#VueJS Brasil](https://t.me/vuejsbrasil)
+- [#VueJS](https://t.me/vuejsbrasil)
 - [#NuxtJS](https://t.me/nuxtjs_br)
-- [#React.Js Brasil](https://t.me/reactjs_br)
-- [#Angular Brasil](https://t.me/angularBrasil)
+- [#React](https://t.me/reactjs_br)
+- [#Angular](https://t.me/angularBrasil)
 - [#TailwindCSS](https://t.me/tailwindcss_ptbr)
 - [#Deno](https://t.me/deno_ptbr)
 - [#JavaScript](https://t.me/javascriptbr)
