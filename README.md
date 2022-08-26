@@ -1,6 +1,4 @@
 
-# Comunidades no Telegram para desenvolvedores
-
 ![Logo](https://github.com/Karytonn/telegram-communities/blob/main/comunidades-telegram-github.png)
 
 ## Tecnologias
