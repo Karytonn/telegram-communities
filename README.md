@@ -11,6 +11,7 @@
 - [#Deno](https://t.me/deno_ptbr)
 - [#JavaScript](https://t.me/javascriptbr)
 - [#Node](https://t.me/NodejsBR)
+- [#Ruby](https://t.me/rubybrasil)
 - [#HTML](https://t.me/htmlbr)
 - [#Docker](https://t.me/dockerbr)
 - [#Fluter](https://t.me/flutterbrasil)
